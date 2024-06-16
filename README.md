@@ -1,2 +1,2 @@
 # liuzp_test_code
-just fot liuzp test the coding.
+just for liuzp test the coding.
